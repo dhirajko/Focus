@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="title_activity_camera_list">CameraList</string>
+    <string name="title_activity_camera_list_activity">CameraList_activity</string>
+    <string name="title_activity_camera__models">Camera_Models</string>
+
+</resources>
