@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ToGallary">
+    tools:context=".gallery.ToGallery">
 
     <GridView
         android:id="@+id/image_Grid"
@@ -13,5 +13,6 @@
         android:numColumns="auto_fit"
         android:columnWidth="100dp"
         tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="8dp" />
+        tools:layout_editor_absoluteY="8dp"
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
